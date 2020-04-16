@@ -1,2 +1,1 @@
-# modern-django-
-Django - GitHub
+Django & Python - Sääpalvelu
